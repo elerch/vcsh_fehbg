@@ -1,0 +1,2 @@
+#!/bin/sh
+feh  --bg-scale "${HOME}/backgrounds/Red-Chinese-Dragon-Dark-Background-Wallpapers.jpg"
