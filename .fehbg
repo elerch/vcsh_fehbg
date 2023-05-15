@@ -1,2 +1,2 @@
 #!/bin/sh
-feh --bg-scale '/home/lobo/backgrounds/2017-eclipse-16x9.jpg'
+feh --no-fehbg --bg-scale '/home/lobo/backgrounds/2017-eclipse-16x9.jpg'
